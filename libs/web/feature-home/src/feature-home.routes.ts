@@ -5,6 +5,6 @@ export const FEATURE_HOME_ROUTES: Route[] = [
   {
     path: '',
     component: WebFeatureHomeComponent,
-    title: 'Home - Conduit',
+    title: 'Home - Kelxety',
   },
 ];
